@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @KarrashMorr
 - 👀 I’m interested in gaming
 - 🌱 I’m currently learning from scratch
-- 💞️ I’m looking to collaborate - probably best I don't until I know what I'm doing 
+- 💞️ I’m looking to collaborate - probably best I don't until I know what I'm doing!
 - 📫 How to reach me ...
 
 <!---
